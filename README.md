@@ -1,1 +1,8 @@
-[![stats](https://github-readme-stats.vercel.app/api?username=Desstyer)](https://github.com/anuraghazra/github-readme-stats)
+________                          __                       
+\______ \   ____   ______ _______/  |_ ___.__. ___________ 
+ |    |  \_/ __ \ /  ___//  ___/\   __<   |  |/ __ \_  __ \
+ |    `   \  ___/ \___ \ \___ \  |  |  \___  \  ___/|  | \/
+/_______  /\___  >____  >____  > |__|  / ____|\___  >__|   
+        \/     \/     \/     \/        \/         \/       
+
+yeah.
